@@ -8,7 +8,7 @@ Temporary position; Work as part of City of Austin's multi-disciplinary Open Dat
 #### San Francisco, CA -- Mar 2015 - Jun 2015
 Advised Director of Health on data-related products and strategy; Evaluated data standards; Designed educational documents to help community organizations adopt and use data standards; Conducted research and issued written recommendations on project management and standards governance; Updated legacy documentation to better suit both technical and non-technical audiences; Performing technical profile-style analysis on data from various systems to assess quality and integration potential; Created screencast videos to demonstrate analysis and explain findings.
 ### Data Consultant, Care Maestro LLC
-#### Sacramento, CA -- Jul 2014 - DeC 2014
+#### Sacramento, CA -- Jul 2014 - Dec 2014
 Assessed information needs and developed business requirements for health data start-up; Created complex business process diagrams; Designed data report products for hospital customers; Developed and deployed technical ETL processes using Microsoft tools to capture and prepare data for reports; Successful pilot project resulted in long-term contract award with local Kaiser hospital.
 ### Associate Governmental Program Analyst, California Emergency Medical Services Authority 
 #### Sacramento, CA -- Mar 2011 - Sep 2014
