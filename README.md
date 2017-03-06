@@ -12,7 +12,7 @@ Advised Director of Health on data-related products and strategy; Evaluated data
 Assessed information needs and developed business requirements for health data start-up; Created complex business process diagrams; Designed data report products for hospital customers; Developed and deployed technical ETL processes using Microsoft tools to capture and prepare data for reports; Successful pilot project resulted in long-term contract award with local Kaiser hospital.
 ### Associate Governmental Program Analyst, California Emergency Medical Services Authority 
 #### Sacramento, CA -- Mar 2011 - Sep 2014
-Prepared business requirements for complex health data collection systems; Used custom scripting to evaluate ambulance and hospital data from over 200 unique source systems; Planned and facilitated meetings with business users, program representatives, and IT staff; Conducted on-site visits to assess EMS data systems at local agencies across California; Advised state and local agencies on data system change management, including business requirements, software procurement, service level agreements, and success criteria; Responsible for tracking data program participation and issuing standing reports to internal and public stakeholders; Planned and prepared grant-funded project proposals, budget details, and reports leading to increased funding; Negotiated contracts with between State of California, public agencies, and private consultants; Delivered California’s first set of nationally-compliant EMS data standards.
+Prepared business requirements for complex health data collection systems; Used custom scripting to evaluate ambulance and hospital data from over 200 unique source systems; Planned and facilitated meetings with business users, program representatives, and IT staff; Conducted on-site visits to assess EMS data systems at local agencies across California; Advised state and local agencies on data system change management, including business requirements, software procurement, service level agreements, and success criteria; Responsible for tracking data program participation and issuing standing reports to internal and public stakeholders; Planned and prepared grant-funded project proposals, budget details, and reports leading to increased funding; Negotiated contracts between State of California, public agencies, and private consultants; Delivered California’s first set of nationally-compliant EMS data standards.
 
 ### Trauma Registrar, Various 
 #### Aug 2007 - Feb 2011
@@ -30,7 +30,7 @@ Maintained schedule of surgeries; Sterilized anesthesia and surgical equipment; 
 Provide user testing and developer feedback for local data integration platform.
 
 ### Member, 2015 CfA Fellowship Advisory Committee
-#### Sacramento Area Council of Governments, Dec 2014 - DEC 2015
+#### Sacramento Area Council of Governments, Dec 2014 - Dec 2015
 Represented local Code for America brigade; Participated in quarterly meetings with members including mayors, county supervisors, and city councilmembers from across the six-county Sacramento region; Received updates from West Sacramento’s Code for America fellows on status of their software development projects; Issued recommendations related to scope, feasibility, local relevance, and scalability.
 
 ### Instructor, Code for Hood 
@@ -43,7 +43,7 @@ Led and/or facilitated weekly meet-ups at local community tech space; Collaborat
 ### Ninja
 Microsoft Excel, PowerPoint, Word, and Access; Google Docs, Sheets, and Slides; Adobe Acrobat Pro; Airtable; Socrata Open Data Portal; Asana
 ### Proficient
-Microsoft PowerBI; Tableau; SQL; UNIX command line; Git; Github; HTML5; CSS; Bootstrap; Jekyll; WordPress; OpenRefine; Adobe Illustrator, InDesign, Python; Sphinx; Jinja2; Microdata formats; Javascript; PostgreSQL (psql)
+Python; SQL; UNIX command line; Git; Github; XML; HTML5; CSS; Bootstrap; Jekyll; Microsoft PowerBI; Tableau;  WordPress; OpenRefine; Adobe Illustrator, InDesign; Sphinx; Jinja2; Microdata formats; Javascript; PostgreSQL (psql)
 ### Familiar
 XPath; XSLT
 ## Education
