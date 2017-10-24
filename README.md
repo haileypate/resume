@@ -8,7 +8,7 @@ I love helping people use technology to solve problems. A huge fan of puzzles, I
 ## Work Experience
 
 ### Business Systems Analyst, Whole Foods Market
-#### Austin, TX -- Jul 2017 - present
+#### Austin, TX -- Jul 2017 - Sep 2017
 Contract position; Work on team responsible for developing and maintaining several key enterprise-level supply-chain software applications. Liaise with technical and non-technical staff to document business requirements, identify and analyze risk potential, and design test plans to validate user stories. Daily tools include Visual Studio Team Services, agile project management, and whiteboard markers.
 ### Senior IT Business Systems Analyst, City of Austin
 #### Austin, TX -- Jul 2015 - Mar 2017
