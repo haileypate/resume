@@ -7,12 +7,20 @@ I love helping people use technology to solve problems. A huge fan of puzzles, I
 
 ## Work Experience
 
+### Web Report Developer, Oro Solutions
+#### Austin, TX -- Jun 2018 - Jan 2019
+Performed custom data integration and report development for boutique financial data shop. Provided technical support to end users of enterprise web applications (ASP.NET Web Forms application running on IIS); Received and processed new software feature requests; Used C#, HTML, and CSS to build custom data reports for output to HTML, PDF, TXT, and XLS formats; Automated data report creation and delivery for internal and external customers.
+
+### Study sabbatical 
+#### Austin, TX -- Sep 2017 - June 2018 
+Took leave from traditional work schedule to sharpen technical skills related to digital illustration, information design, and CMS workflows.
+
 ### Business Systems Analyst, Whole Foods Market
 #### Austin, TX -- Jul 2017 - Sep 2017
 Contract position; Work on team responsible for developing and maintaining several key enterprise-level supply-chain software applications. Liaise with technical and non-technical staff to document business requirements, identify and analyze risk potential, and design test plans to validate user stories. Daily tools include Visual Studio Team Services, agile project management, and whiteboard markers.
 ### Senior IT Business Systems Analyst, City of Austin
 #### Austin, TX -- Jul 2015 - Mar 2017
-Temporary position; Worked as part of City of Austin's multi-disciplinary Open Data Initiative team. Wrote scripts to harvest data from the City's open data portal to assess and improve data products; Developed and implemented new documentation practices for open data-related projects to increase transparency and staff participation; Designed, built, and maintained the City's open data manual; Led project to deliver UML use case specification for sending open data suggestions to the City; Write SQL statements to study enterprise data systems; Developed and delivered numerous slide deck presentations to diverse audiences; Provided training on tools such as Tableau, Excel, Google Sheets, Airtable, GitHub, and Socrata; Improved how data is moved (ETL) between various enterprise systems
+Temporary position; Worked as part of City of Austin's multi-disciplinary Open Data Initiative team. Wrote scripts to harvest data from the City's open data portal to assess and improve data products; Developed and implemented new documentation practices for open data-related projects to increase transparency and staff participation; Designed, built, and maintained the City's open data manual; Led project to deliver UML use case specification for sending open data suggestions to the City; Write SQL statements to study enterprise data systems; Developed and delivered numerous slide deck presentations to diverse audiences; Provided training on tools such as Tableau, Excel, Google Sheets, Airtable, GitHub, and Socrata; Improved how data is moved (ETL) between various enterprise systems.
 ### Product Resident Contractor, Code for America
 #### San Francisco, CA -- Mar 2015 - Jun 2015
 Advised Director of Health on data-related products and strategy; Evaluated data standards; Designed educational documents to help community organizations adopt and use data standards; Conducted research and issued written recommendations on project management and standards governance; Updated legacy documentation to better suit both technical and non-technical audiences; Performing technical profile-style analysis on data from various systems to assess quality and integration potential; Created screencast videos to demonstrate analysis and explain findings.
