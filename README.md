@@ -1,8 +1,8 @@
 # Hailey Pate
 
-I love helping people use technology to solve problems. A huge fan of puzzles, I enjoy cleaning up things like messy data and finding patterns that lead to 'Aha!' moments. My work to understand user needs, analyze business processes, and deploy solutions in iterative fashion is heavily based on the Kimball approach to data warehousing and business intelligence -- find out what the users want, then pragmatically reverse-engineer with grace. Seeking an opportunity to learn and grow alongside passionate, creative folks who shamelessly value hot design.
+I love helping people use technology to solve problems. A huge fan of puzzles, I enjoy cleaning up things like messy data and finding patterns that lead to 'Aha!' moments. My work to understand user needs, analyze business processes, and deploy solutions in iterative fashion is heavily based on the Kimball approach to data warehousing and business intelligence -- find out what the users want, then pragmatically reverse-engineer with grace. Seeking an opportunity to learn and grow alongside kind and balanced folks.
 
-- me on [linkedin](www.linkedin.com/in/haileypate)
+- me on [linkedin](https://www.linkedin.com/in/haileypate)
 - me on [twitter](https://twitter.com/haileypate)
 
 ## Work Experience
